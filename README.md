@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **snoop2head/snoop2head** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# snoop2head
+
+**Learn enough to be dangerous to build an idea. Concept it, show it to the world.**
+
+- ✨ **Django, Pandas**, FastAPI, Sass
+- ♥️ **NLP**, Python3, Rust lang
+- 🎯 Building ideas | Extracting insights
+- 🔍 Pytorch, Tensorflow
+
+| ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) Github | https://github.com/snoop2head                            |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+| ⭐ Portfolio                                                  | https://github.com/snoop2head/portfolio                  |
+| ▶️ YouTube                                                    | https://www.youtube.com/channel/UCLKItbBwVX1eGYRhOcbeJOg |
+

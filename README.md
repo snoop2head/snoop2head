@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 🎯 Building ideas | Extracting insights
 - 🔍 Pytorch, Tensorflow
 
-| ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) Github | https://github.com/snoop2head                            |
-| ------------------------------------------------------------ | -------------------------------------------------------- |
-| ⭐ Portfolio                                                  | https://github.com/snoop2head/portfolio                  |
-| ▶️ YouTube                                                    | https://www.youtube.com/channel/UCLKItbBwVX1eGYRhOcbeJOg |
+| :octocat: Github | https://github.com/snoop2head                            |
+| ---------------- | -------------------------------------------------------- |
+| ⭐ Portfolio      | https://github.com/snoop2head/portfolio                  |
+| ▶️ YouTube        | https://www.youtube.com/channel/UCLKItbBwVX1eGYRhOcbeJOg |
 

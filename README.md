@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 | ---------------- | -------------------------------------------------------- |
 | ⭐ Portfolio      | https://github.com/snoop2head/portfolio                  |
 | ▶️ YouTube        | https://www.youtube.com/channel/UCLKItbBwVX1eGYRhOcbeJOg |
+| 📄 Blog           | https://velog.io/@snoop2head                             |
 

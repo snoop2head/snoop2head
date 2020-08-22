@@ -12,8 +12,8 @@
 <div>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="30px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="30px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="30px" /><img src="https://user-images.githubusercontent.com/32125218/89158557-48746b80-d5a9-11ea-80c6-1dc85b29e53e.png" alt="JavaScript" width="30px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" width="30px" /><img src="https://camo.githubusercontent.com/86dafd728b94c0e3c8f19a7295e87df678ed6751/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" alt="FastAPI" height="30px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" width="30px" />
 </div>
-[` 👆 View More `](https://github.com/snoop2head/portfolio/blob/master/README.md) <br>
-[` 👉 Check My Repos `](https://github.com/snoop2head?tab=repositories) <br>[` 👋 Ask Me `](mailto:young_ahn@yonsei.ac.kr)
+[👆 View More](https://github.com/snoop2head/portfolio/blob/master/README.md) <br>
+[👉 Check My Repos](https://github.com/snoop2head?tab=repositories) <br>[👋 Ask Me](mailto:young_ahn@yonsei.ac.kr)
 
 <!--- Logo Source: https://simpleicons.org/ -->
 <!--- Badge Syntax: https://shields.io/ -->

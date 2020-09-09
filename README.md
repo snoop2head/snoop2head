@@ -5,8 +5,9 @@
 
 ### Data Analysis
 <div>
-<img src="https://avatars1.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="40px" /><img src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4" alt="Pytorch" width="40px" /><img src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" alt="Tensorflow" width="40px" /><img src="https://avatars2.githubusercontent.com/u/365630?s=200&v=4" alt="Scikit-learn" width="40px" /><img src="https://user-images.githubusercontent.com/32125218/89159419-6c847c80-d5aa-11ea-8421-2301fbc9c917.png" alt="Git" width="40px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40px" />
+<img src="https://avatars1.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" width="40px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" width="40px"><img src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4" alt="Pytorch" width="40px" /><img src="https://avatars0.githubusercontent.com/u/15658638?s=200&v=4" alt="Tensorflow" width="40px" /><img src="https://avatars2.githubusercontent.com/u/365630?s=200&v=4" alt="Scikit-learn" width="40px" /><img src="https://user-images.githubusercontent.com/32125218/89159419-6c847c80-d5aa-11ea-8421-2301fbc9c917.png" alt="Git" width="40px" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40px" />
 </div>
+
 
 ### Web Languages and Tools
 <div>

@@ -1,4 +1,4 @@
-[![Blog](https://img.shields.io/badge/%F0%9F%9A%80Blog-noopy.dev-blueviolet?style=for-the-badge&link=https://noopy.dev/)](https://noopy.dev/)
+[![Blog](https://img.shields.io/badge/%F0%9F%9A%80Blog-noopy.dev-blueviolet?style=for-the-badge&link=https://velog.io/@snoop2head)](https://velog.io/@snoop2head)
 [![Portfolio](https://img.shields.io/badge/%F0%9F%93%84Portfolio-UP-3E53F0?style=for-the-badge&link=https://github.com/snoop2head/portfolio/blob/master/README.md)](https://github.com/snoop2head/portfolio/blob/master/README.md)
 
 **Learn enough to build an idea.**<br>**Concept it, show it to the world.**

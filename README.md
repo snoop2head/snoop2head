@@ -7,7 +7,6 @@
 
 
 [` 👆 View More `](https://github.com/snoop2head/portfolio/blob/master/README.md) <br>
-[` 👇 Check My Repos `](https://github.com/snoop2head?tab=repositories) <br>[` 👋 Ask Me `](mailto:young_ahn@yonsei.ac.kr)
 
 <!--- Logo Source: https://simpleicons.org/ -->
 <!--- Badge Syntax: https://shields.io/ -->

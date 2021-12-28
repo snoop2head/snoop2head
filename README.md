@@ -3,9 +3,6 @@
 
 **Learn enough to build an idea.**<br>**Concept it, show it to the world.**
 
-📚 Currently studying in [Naver BoostCamp AI tech](https://boostcamp.connect.or.kr/program_ai.html)
-
-
 [` 👆 View More `](https://github.com/snoop2head/portfolio/blob/master/README.md) <br>
 
 <!--- Logo Source: https://simpleicons.org/ -->
